@@ -30,4 +30,4 @@ This project detects suspicious banking transactions using SQL. It stores user, 
 - Bank_Fraud_PPT_Final.pptx
 
 ## 👨‍💻 Author
-Balasubramani
+Balasubramani.K
